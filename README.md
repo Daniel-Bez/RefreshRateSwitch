@@ -23,9 +23,8 @@ A lightweight Windows utility that sits in your system tray and lets you quickly
 
 1. Download the latest release from the [Releases]([https://github.com/Daniel-Bez/RefreshRateToggler/releases]![screenshot](https://github.com/user-attachments/assets/cbb56afe-959f-4f48-b33c-1171576a4d82)
 ) page
-2. Extract the ZIP file to any location on your computer
-3. Run `RefreshRateSwitch.exe`
-4. Optional: Enable "Start on Startup" toggle in the app to run automatically when Windows starts
+2. Run `RefreshRateSwitch.exe`
+3. Optional: Enable "Start on Startup" toggle in the app to run automatically when Windows starts
 
 ## How to Use
 
